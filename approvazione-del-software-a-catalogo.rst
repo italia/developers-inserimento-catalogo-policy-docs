@@ -24,7 +24,7 @@ Developers Italia non sono ammessi:
 -  I repository contenenti un file publiccode.yml non valido:
 
    -  non rispondente alle specifiche (descritte
-      `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/master/>`__),
+      `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__),
 
    -  che non permette di capire lo scopo, le finalità e i requisiti del
       software,
