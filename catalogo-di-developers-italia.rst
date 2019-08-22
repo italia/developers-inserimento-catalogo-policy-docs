@@ -1,5 +1,5 @@
-**Catalogo di Developers Italia**
-=================================
+Catalogo di Developers Italia
+-----------------------------
 
 La seguente policy si applica all’inserimento di soluzioni software open
 source che non siano di titolarità di una Pubblica Amministrazione
@@ -28,16 +28,13 @@ scansione periodica notturna di diverse fonti:
    `onboarding <https://onboarding.developers.italia.it/>`__. Gli spazi
    dichiarati possono essere sia singoli account di sviluppo o,
    preferibilmente, relativi all’intera organizzazione.
-
-Questi software entrano nella prima area del catalogo (A).
+   Questi software entrano nella prima area del catalogo (A).
 
 -  Gli spazi di code hosting inseriti attraverso una procedura di Pull
    Request nel file di whitelist presente sul repo
    `GitHub <https://github.com/italia/developers-italia-backend/blob/master/crawler/whitelist/thirdparty.yml>`__.
-
-Questi software entrano nella seconda area del catalogo (B).
+   Questi software entrano nella seconda area del catalogo (B).
 
 -  Altri spazi di code hosting individuati dai gestori del catalogo di
    Developers Italia con mezzi manuali o automatizzati.
-
-Questi software entrano nella seconda area del catalogo (B).
+   Questi software entrano nella seconda area del catalogo (B).
