@@ -1,0 +1,11 @@
+document:
+  name: Policy catalogo del software open source di Developers Italia 
+  description: |
+    Politica usata per valutare il software candidato ad entrare nel catalogo
+    di Developers Italia per il riuso 
+  tags:
+    - catalogo
+    - policy
+    - riuso
+    - software
+  
