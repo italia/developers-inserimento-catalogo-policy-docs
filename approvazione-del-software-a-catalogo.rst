@@ -1,5 +1,5 @@
-**Approvazione del software a catalogo**
-========================================
+Approvazione del software a catalogo
+------------------------------------
 
 Il software che soddisfi i requisiti descritti nelle `linee
 guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html>`__,
