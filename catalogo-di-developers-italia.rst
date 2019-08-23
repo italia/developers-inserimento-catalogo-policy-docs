@@ -13,7 +13,7 @@ A. `La prima <https://developers.italia.it/it/search?type=reuse_software>`__
    dell’\ `art.
    69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo6_art69.html>`__
    del Codice dell’Amministrazione Digitale. Per maggiori informazioni riguardo
-   all'inserimeno di un software open source in questa aree si veda la pagina
+   all'inserimeno di un software open source in questa area si veda la pagina
    dedicata su `Developers Italia <https://developers.italia.it/it/riuso>`__.
 
 B. `La seconda <https://developers.italia.it/it/search?type=software_open>`__
