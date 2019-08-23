@@ -15,19 +15,19 @@ Developers Italia non sono ammessi:
 
 -  I repository che violano delle regole di diritto:
 
-   -  software privi di licenza aperta
+   -  software privi di licenza aperta;
 
-   -  repository contenenti licenze tra loro incompatibili,
+   -  repository contenenti licenze tra loro incompatibili;
 
    -  software che violano in modo palese delle proprietà intellettuali.
 
 -  I repository contenenti un file publiccode.yml non valido:
 
    -  non rispondente alle specifiche (descritte
-      `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__),
+      `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
 
    -  che non permette di capire lo scopo, le finalità e i requisiti del
-      software,
+      software;
 
    -  con contenuti inopportuni, illegali o commerciali.
 
