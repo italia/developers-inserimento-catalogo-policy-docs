@@ -5,7 +5,7 @@ Nel catalogo del software di Developers Italia non sono ammessi:
 
 -  I repository che al loro interno non contengono sorgenti di software.
 
--  I repository ospitati in uno strumento di code hosting non conforme ai requisiti espressi nell'`allegato A delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-a-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#individuazione-dello-strumento-di-code-hosting>`__.
+-  I repository ospitati in uno strumento di code hosting non conforme ai requisiti espressi nell'allegato `A delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-a-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#individuazione-dello-strumento-di-code-hosting>`__.
 
 -  I repository che contengono: 
 
@@ -15,7 +15,7 @@ Nel catalogo del software di Developers Italia non sono ammessi:
 
    - software privo di documentazione relativa alla compilazione o all'installazione;
 
-   - software che non rientra nella definizione di cui all'`art. 1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
+   - software che non rientra nella definizione di cui all'art. `1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
 
    - software che non raggiunge un livello sufficiente di unità funzionale.
 
