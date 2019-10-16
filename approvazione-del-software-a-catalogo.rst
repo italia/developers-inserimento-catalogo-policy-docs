@@ -1,17 +1,19 @@
-Approvazione del software a catalogo
-------------------------------------
+Ammissione del software a catalogo
+----------------------------------
 
-Il software che soddisfi i requisiti descritti nelle `linee
-guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html>`__,
-quindi, sarà incluso nel catalogo. Nel catalogo del software di
-Developers Italia non sono ammessi:
+Nel catalogo del software di Developers Italia non sono ammessi:
 
 -  I repository che al loro interno non contengono sorgenti di software.
 
--  I repository che contengono software incompleto, non
-   compilabile/installabile o non eseguibile poiché eseguibile come
-   modulo o plugin di un software non open source non disponibile sul
-   mercato.
+-  I repository ospitati in uno strumento di code hosting non conforme ai requisiti espressi nell'`allegato A delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-a-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#individuazione-dello-strumento-di-code-hosting>`__.
+
+-  I repository che contengono: 
+   - software incompleto;
+   - software non compilabile / installabile;
+   - software privo di documentazione relativa alla compilazione o all'installazione;
+   - software che non rientra nella definizione di cui all'`art. 1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
+
+   - software che non raggiunge un livello sufficiente di unità funzionale.
 
 -  I repository che violano delle regole di diritto:
 
@@ -19,7 +21,11 @@ Developers Italia non sono ammessi:
 
    -  repository contenenti licenze tra loro incompatibili;
 
-   -  software che violano in modo palese delle proprietà intellettuali.
+   -  software che violano diritti di proprietà intellettuale o altri
+      diritti di terzi;
+
+   -  repository con contenuti illegali, commerciali o che violano norme di
+      legge.
 
 -  I repository contenenti un file publiccode.yml non valido:
 
@@ -29,11 +35,10 @@ Developers Italia non sono ammessi:
    -  che non permette di capire lo scopo, le finalità e i requisiti del
       software;
 
-   -  con contenuti inopportuni, illegali o commerciali.
-
 I gestori della piattaforma Developers Italia si riservano il diritto di
-escludere dal catalogo i contenuti che violano queste regole. In caso di
-violazione di alcuni di questi principi, il maintainer di Developers
-Italia condividerà, tramite commenti alla PR, le valutazioni effettuate
-in modo che insieme si possa giungere a una decisione complessiva circa
-l’opportunità o meno di pubblicare il software proposto nel catalogo.
+rimuovere dal catalogo i repository che violano queste regole. In caso di
+esclusione i gestori della piattaforma Developers Italia comunicheranno le
+motivazioni al gestore del repository attraverso i canali di comunicazione
+disponibili. A seguito della eventuale correzione delle violazioni segnalate
+e della relativa comunicazione ai gestori di Developers Italia, il software
+potrà essere incluso nuovamente nel catalogo.

@@ -1,8 +1,7 @@
 Il Catalogo di Developers Italia
------------------------------
+--------------------------------
 
-La seguente policy si applica all’inserimento di soluzioni software open
-source che non siano di titolarità di una Pubblica Amministrazione
+La seguente policy si applica all’inserimento di soluzioni software open source
 all’interno del catalogo di Developers Italia.
 
 Il `catalogo di Developers
@@ -13,7 +12,7 @@ A. `La prima <https://developers.italia.it/it/search?type=reuse_software>`__
    dell’\ `art.
    69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo6_art69.html>`__
    del Codice dell’Amministrazione Digitale. Per maggiori informazioni riguardo
-   all'inserimeno di un software open source in questa area si veda la pagina
+   all'inserimento di un software open source in questa area si veda la pagina
    dedicata su `Developers Italia <https://developers.italia.it/it/riuso>`__.
 
 B. `La seconda <https://developers.italia.it/it/search?type=software_open>`__
@@ -23,18 +22,20 @@ B. `La seconda <https://developers.italia.it/it/search?type=software_open>`__
 L’aggiunta di software al catalogo avviene in automatico tramite una
 scansione periodica notturna di diverse fonti:
 
--  Gli strumenti di code hosting dichiarati dalle Pubbliche Amministrazioni
+-  Gli spazi di code hosting dichiarati dalle Pubbliche Amministrazioni
    mediante la procedura di
-   `onboarding <https://onboarding.developers.italia.it/>`__. Gli strumenti
-   dichiarati possono essere sia singoli account di sviluppo o,
-   preferibilmente, relativi all’intera organizzazione.
+   `onboarding <https://onboarding.developers.italia.it/>`__. Gli spazi
+   dichiarati devono essere relativi all'intera organizzazione (ad es.,
+   github.com/AgID è l’account riferito all’organizzazione "Agenzia per
+   l'Italia Digitale" su Github) oppure, laddove questo non fosse possibile,
+   relativi al singolo repository.
    Questi software entrano nella prima area del catalogo (A).
 
--  Gli strumenti di code hosting inseriti attraverso una procedura di Pull
-   Request nel file di whitelist presente sul repo
+-  Gli spazi di code hosting inseriti attraverso una procedura di Pull Request
+   nel file di whitelist presente sul repo 
    `GitHub <https://github.com/italia/developers-italia-backend/blob/master/crawler/whitelist/thirdparty.yml>`__.
-   Questi software entrano nella seconda area del catalogo (B).
+   Questi software entrano nella seconda area del catalogo (B)
 
--  Altri strumenti di code hosting individuati dai gestori del catalogo di
+-  Altri spazi di code hosting individuati dai gestori del catalogo di
    Developers Italia con mezzi manuali o automatizzati.
    Questi software entrano nella seconda area del catalogo (B).
