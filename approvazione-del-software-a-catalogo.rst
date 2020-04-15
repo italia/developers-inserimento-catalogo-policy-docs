@@ -9,15 +9,15 @@ Nel catalogo del software di Developers Italia non sono ammessi:
 
 3.  I repository che contengono: 
 
-   a. software incompleto;
+    a. software incompleto;
 
-   b. software non compilabile / installabile;
+    b. software non compilabile / installabile;
 
-   c. software privo di documentazione relativa alla compilazione o all'installazione;
+    c. software privo di documentazione relativa alla compilazione o all'installazione;
 
-   d. software che non rientra nella definizione di cui all'art. `1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
+    d. software che non rientra nella definizione di cui all'art. `1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
 
-   e. software che non raggiunge un livello sufficiente di unità funzionale.
+    e. software che non raggiunge un livello sufficiente di unità funzionale.
 
 4.  I repository che violano delle regole di diritto:
 
@@ -25,19 +25,15 @@ Nel catalogo del software di Developers Italia non sono ammessi:
 
    b.  repository contenenti licenze tra loro incompatibili;
 
-   c.  software che violano diritti di proprietà intellettuale o altri
-      diritti di terzi;
+   c.  software che violano diritti di proprietà intellettuale o altri diritti di terzi;
 
-   d.  repository con contenuti illegali, commerciali o che violano norme di
-      legge.
+   d.  repository con contenuti illegali, commerciali o che violano norme di legge.
 
 5.  I repository contenenti un file publiccode.yml non valido:
 
-   a.  non rispondente alle specifiche (descritte
-      `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
+   a.  non rispondente alle specifiche (descritte `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
 
-   b.  che non permette di capire lo scopo, le finalità e i requisiti del
-      software;
+   b.  che non permette di capire lo scopo, le finalità e i requisiti del software;
 
 I gestori della piattaforma Developers Italia si riservano il diritto di
 rimuovere dal catalogo i repository che violano queste regole. In caso di
