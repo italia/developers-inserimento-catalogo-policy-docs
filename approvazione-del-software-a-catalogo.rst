@@ -31,7 +31,7 @@ Nel catalogo del software di Developers Italia non sono ammessi:
    d.  repository con contenuti illegali, commerciali o che violano norme di
       legge.
 
-5.5.5.5.5.  I repository contenenti un file publiccode.yml non valido:
+5.  I repository contenenti un file publiccode.yml non valido:
 
    a.  non rispondente alle specifiche (descritte
       `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
