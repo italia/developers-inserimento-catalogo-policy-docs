@@ -3,40 +3,40 @@ Ammissione del software a catalogo
 
 Nel catalogo del software di Developers Italia non sono ammessi:
 
--  I repository che al loro interno non contengono sorgenti di software.
+1.  I repository che al loro interno non contengono sorgenti di software.
 
--  I repository ospitati in uno strumento di code hosting non conforme ai requisiti espressi nell'allegato `A delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-a-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#individuazione-dello-strumento-di-code-hosting>`__.
+2.  I repository ospitati in uno strumento di code hosting non conforme ai requisiti espressi nell'allegato `A delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/attachments/allegato-a-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa.html#individuazione-dello-strumento-di-code-hosting>`__.
 
--  I repository che contengono: 
+3.  I repository che contengono: 
 
-   - software incompleto;
+   a. software incompleto;
 
-   - software non compilabile / installabile;
+   b. software non compilabile / installabile;
 
-   - software privo di documentazione relativa alla compilazione o all'installazione;
+   c. software privo di documentazione relativa alla compilazione o all'installazione;
 
-   - software che non rientra nella definizione di cui all'art. `1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
+   d. software che non rientra nella definizione di cui all'art. `1.2 delle linee guida <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/premessa/software-oggetto-di-queste-linee-guida.html>`__;
 
-   - software che non raggiunge un livello sufficiente di unità funzionale.
+   e. software che non raggiunge un livello sufficiente di unità funzionale.
 
--  I repository che violano delle regole di diritto:
+4.  I repository che violano delle regole di diritto:
 
-   -  software privi di licenza aperta;
+   a.  software privi di licenza aperta;
 
-   -  repository contenenti licenze tra loro incompatibili;
+   b.  repository contenenti licenze tra loro incompatibili;
 
-   -  software che violano diritti di proprietà intellettuale o altri
+   c.  software che violano diritti di proprietà intellettuale o altri
       diritti di terzi;
 
-   -  repository con contenuti illegali, commerciali o che violano norme di
+   d.  repository con contenuti illegali, commerciali o che violano norme di
       legge.
 
--  I repository contenenti un file publiccode.yml non valido:
+5.5.5.5.5.  I repository contenenti un file publiccode.yml non valido:
 
-   -  non rispondente alle specifiche (descritte
+   a.  non rispondente alle specifiche (descritte
       `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
 
-   -  che non permette di capire lo scopo, le finalità e i requisiti del
+   b.  che non permette di capire lo scopo, le finalità e i requisiti del
       software;
 
 I gestori della piattaforma Developers Italia si riservano il diritto di
