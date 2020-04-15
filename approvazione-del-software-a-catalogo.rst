@@ -21,19 +21,19 @@ Nel catalogo del software di Developers Italia non sono ammessi:
 
 4.  I repository che violano delle regole di diritto:
 
-   a.  software privi di licenza aperta;
+    a.  software privi di licenza aperta;
 
-   b.  repository contenenti licenze tra loro incompatibili;
+    b.  repository contenenti licenze tra loro incompatibili;
 
-   c.  software che violano diritti di proprietà intellettuale o altri diritti di terzi;
+    c.  software che violano diritti di proprietà intellettuale o altri diritti di terzi;
 
-   d.  repository con contenuti illegali, commerciali o che violano norme di legge.
+    d.  repository con contenuti illegali, commerciali o che violano norme di legge.
 
 5.  I repository contenenti un file publiccode.yml non valido:
 
-   a.  non rispondente alle specifiche (descritte `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
+    a.  non rispondente alle specifiche (descritte `qui <https://docs.italia.it/italia/developers-italia/publiccodeyml/it/core-0.2-it-0.2_a/>`__);
 
-   b.  che non permette di capire lo scopo, le finalità e i requisiti del software;
+    b.  che non permette di capire lo scopo, le finalità e i requisiti del software;
 
 I gestori della piattaforma Developers Italia si riservano il diritto di
 rimuovere dal catalogo i repository che violano queste regole. In caso di
