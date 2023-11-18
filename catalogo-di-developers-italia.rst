@@ -32,8 +32,8 @@ scansione periodica notturna di diverse fonti:
    Questi software entrano nella prima area del catalogo (A).
 
 -  Gli spazi di code hosting inseriti attraverso una procedura di Pull Request
-   nel file di whitelist presente sul repo 
-   `GitHub <https://github.com/italia/developers-italia-backend/blob/master/crawler/whitelist/thirdparty.yml>`__.
+   nel file dedicato presente sul repo 
+   `GitHub <https://github.com/italia/developers.italia.it/blob/main/_data/publishers.thirdparty.yml>`__.
    Questi software entrano nella seconda area del catalogo (B).
 
 -  Altri spazi di code hosting individuati dai gestori del catalogo di
